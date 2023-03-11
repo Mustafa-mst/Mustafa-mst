@@ -1,4 +1,5 @@
-### Hi there 👋
+![alt text](https://miro.medium.com/v2/resize:fit:1400/1*X0QJqxE7mPdvAWzGCdat6g.png)
+## Hi there 👋
 - 🔭 I'm currently working on new projects
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: https://www.linkedin.com/in/mustafa-gülay-276738196/
