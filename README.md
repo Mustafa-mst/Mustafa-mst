@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I'm currently working on new projects
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: https://www.linkedin.com/in/mustafa-gülay-276738196/
 <!--
 **Mustafa-mst/Mustafa-mst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
